@@ -24,15 +24,13 @@ for (ch = 'a' ; ch <= 'z' ; ch++)
 
 {
 
-	putchar(ch);
-
-}
-
-for (ch = 'A' ; ch <= 'Z' ; ch++)
+if (ch != 'e' && ch != 'q')
 
 {
 
 	putchar(ch);
+
+}
 
 }
 
