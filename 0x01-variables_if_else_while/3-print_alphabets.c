@@ -15,13 +15,13 @@ int main(void)
 
 {
 
-		char abc[] = "abcdefghijklmnopqrstuvwxyz";
+	char abc[] = "abcdefghijklmnopqrstuvwxyz";
 
 			int i;
 
 
 
-		for (i = 0; i < 26; i++)
+        for (i = 0; i < 26; i++)
 
 						{
 
@@ -29,7 +29,7 @@ int main(void)
 
 										}
 
-		for (i = 0; i < 26; i++)
+	for (i = 0; i < 26; i++)
 
 							{
 
