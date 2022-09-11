@@ -5,12 +5,11 @@
 
 
 /**
- *
  *  * main - entry point
  *
  *   * Return: 0 when successful
  *
- *    */
+**/
 
 int main(void)
 
@@ -22,7 +21,7 @@ int main(void)
 
 
 
-				for (i = 0; i < 26; i++)
+		for (i = 0; i < 26; i++)
 
 						{
 
@@ -30,7 +29,7 @@ int main(void)
 
 										}
 
-					for (i = 0; i < 26; i++)
+		for (i = 0; i < 26; i++)
 
 							{
 
